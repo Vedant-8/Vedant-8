@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedant-8" alt="vedant-8" /></a> </p>
 
-- 🌱 I’m currently learning **PERN stack**
+- 🌱 I’m currently learning **Decentralized Applications**
 
 - 📫 How to reach me **https://twitter.com/Vedantkulk08**
 
