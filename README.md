@@ -10,7 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vedantkulk08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedantkulk08" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/vedantk888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vedantk888" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
