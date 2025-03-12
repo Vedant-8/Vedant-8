@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vedant Kulkarni</h1>
 <h3 align="center">Software developer from India!</h3>
-
+ 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedant-8" alt="vedant-8" /></a> </p>
 
 - 🌱 I’m currently learning **Decentralized Applications**
