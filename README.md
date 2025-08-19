@@ -1,16 +1,118 @@
-<h1 align="center">Hi 👋, I'm Vedant Kulkarni</h1>
-<h3 align="center">Software developer from India!</h3>
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedant-8" alt="vedant-8" /></a> </p>
+# 💀 VEDANT.EXE
 
-- 🌱 I’m currently learning **Decentralized Applications**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2000&pause=500&color=FF0000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=SYSTEM+FAILURE+DETECTED;WELCOME+TO+THE+MATRIX" alt="Typing SVG" />
 
-- 📫 How to reach me **https://twitter.com/Vedantkulk08**
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BncGJzeHM5bjZrdnlhZ3p6eWxvOGRsZng1a2N6MGllN2YyNHl6byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hOclin2KcAEOcZEnXK/giphy.gif" width="200" height="200"/>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vedantkulk08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedantkulk08" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+```
+ERROR 404: SOCIAL LIFE NOT FOUND
+LOADING DEVELOPER MODE...
+████████████████] 100%
+CAFFEINE LEVELS: ████████████████] MAXIMUM  ☕☕☕☕☕
+DEBUG MODE: ON                              🔥🔥🔥🔥🔥
+SANITY: NULL                               💀💀💀💀💀
+CHAOS METER: ████████████████] OVERLOAD    🌪️🌪️🌪️🌪️🌪️
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Bug+Creator+Supreme;ML+Engineer+%7C+Coffee+Consumer+Professional;Hackathon+Destroyer+%7C+Code+Wizard+%7C+Sleep+Denier;Currently+Breaking+Production+Since+2022..." alt="Typing SVG" />
+</div>
+
+<img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
+
+---
+
+## 🧰 WEAPONS OF MASS DESTRUCTION
+
+<details>
+<summary>💥 Click to see my arsenal (if you dare)</summary>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=600&lines=ACCESSING+CLASSIFIED+INFORMATION...;DECRYPTING+SKILL+DATABASE...;WARNING%3A+HIGH+VOLTAGE+CONTENT!" alt="Typing SVG" />
+</div>
+
+```
+[LANGUAGES] - The Ancient Scripts 📜
+▓▓▓▓▓ C/C++ (Pain Level: Extreme) 💀
+▓▓▓▓▓ JavaScript (Sanity Level: Questionable) 🤪 
+▓▓▓▓▓ Python (Snake Charmer Certified) 🐍
+▓▓▓▓▓ Java (Coffee Required) ☕
+▓▓▓▓▓ TypeScript (Type or Die) ⚰️
+
+[FRAMEWORKS] - The Holy Trinity + More Chaos ⛪
+⚛️ React (Hooks got me hooked) 🎣
+🔥 Node.js (Server Goes BRRRR) 💨
+🌸 Spring Boot (Enterprise Hell) 😈
+🐍 Flask (Minimal but Deadly) ⚗️
+⚡ Next.js (The Future is Now) 🚀
+
+[DATABASES] - Where Data Goes to Die ⚰️
+🍃 MongoDB (NoSQL? No Problem!) 🤷‍♂️
+🐘 PostgreSQL (Elephant Never Forgets) 🧠
+🐬 MySQL (Dolphin Swimming in Queries) 🏊‍♂️
+💎 Redis (Fast & Furious) 🏎️
+
+[TOOLS] - Digital Torture Devices 🔧
+🐳 Docker (Container Wizard) 🧙‍♂️
+📈 Kafka (Message Broker Overlord) 👑
+🔍 GraphQL (Query Language God) 🛐
+```
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=50&section=header&text=ARSENAL+LOADED&fontSize=20&animation=blinking"/>
+</div>
+
+</details>
+
+---
+
+## 📊 PROOF I ACTUALLY CODE (NOT JUST STACK OVERFLOW COPY-PASTE)
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=22&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=ANALYZING+GITHUB+ACTIVITY...;CALCULATING+COMMIT+STREAKS...;GENERATING+STATISTICAL+EVIDENCE...;RESULTS%3A+NOT+A+FRAUD!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vedant-8&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Vedant's%20GitHub%20Stats&icon_color=79ff97&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedant-8&theme=radical&hide_border=true&stroke=79ff97&ring=79ff97&fire=79ff97&currStreakLabel=79ff97" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedant-8&layout=compact&theme=radical&hide_border=true&langs_count=8&card_width=500&custom_title=Most%20Used%20Languages&text_color=ffffff&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vedant-8&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=header&text=STATS+VERIFIED+✓&fontSize=15&animation=fadeIn"/>
+</div>
+
+
+
+---
+
+## 💣 SOCIAL MEDIA DESTRUCTION LINKS
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=3000&pause=1000&color=FF4444&center=true&vCenter=true&width=500&lines=ESTABLISHING+CONNECTIONS...;SOCIAL+PROTOCOLS+ONLINE;READY+TO+NETWORK!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Vedantkulk08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-kulkarni-397206218)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=vedant-8&color=red&style=flat-square&label=VICTIMS" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer&animation=twinkling"/>
+</div>
