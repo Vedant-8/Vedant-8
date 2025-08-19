@@ -17,9 +17,6 @@ SANITY: NULL                               💀💀💀💀💀
 CHAOS METER: ████████████████] OVERLOAD    🌪️🌪️🌪️🌪️🌪️
 ```
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Hack&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Bug+Creator+Supreme;ML+Engineer+%7C+Coffee+Consumer+Professional;Hackathon+Destroyer+%7C+Code+Wizard+%7C+Sleep+Denier;Currently+Breaking+Production+Since+2022..." alt="Typing SVG" />
-</div>
 
 <img align="right" alt="Coding" width="150" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">
 
