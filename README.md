@@ -1,57 +1,80 @@
 <div align="center">
 
-# Vedant Kulkarni  🏎️☕
+# I'm Vedant Kulkarni
 
-**SDE · Backend Systems · Machine Learning · Data Science · Deep Learning**
+**Software Engineer · Backend Systems · Machine Learning**
+
+I build scalable backend systems and data-driven solutions with a focus on performance, reliability, and clean architecture.
 
 [LinkedIn](https://www.linkedin.com/in/vedant-kulkarni-397206218) · 
-[Mail](mailto:vedantkulkarni208@gmail.com)
+[Email](mailto:vedantkulkarni208@gmail.com)
 
 </div>
 
 ---
 
-## Performance Dashboard
+## 👨‍💻 About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vedant-8" alt="Vedant-8" /></a> </p>
-
----
-
-## About Me
-
-I’m a software engineer focused on building **efficient, scalable, and reliable systems**, with a strong interest in **Machine Learning and Deep Learning**. I enjoy working across backend systems, APIs, and data-driven models with an emphasis on performance and clean architecture.
-
-Outside of engineering, I follow **Formula 1** for its engineering depth, strategy, and execution under pressure — values that subtly shape how I approach problem-solving.
+- Backend-focused Software Engineer  
+- Strong foundation in **Data Structures, Algorithms & System Design**
+- Interested in **Machine Learning, Deep Learning & Data Science**
+- Enjoy solving complex problems and optimizing system performance  
+- Formula 1 enthusiast — engineering, strategy & execution under pressure  
 
 ---
 
-## Current Focus
-
-- Full-stack product engineering  
-- Machine Learning & Deep Learning foundations  
-- Data structures, system design & performance optimization  
-- Preparing for high-impact software engineering roles  
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,spring,flask,postgres,mongodb,redis,docker,git,kafka" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,flask,nodejs,react,nextjs" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,docker,git" />
 </p>
 
 ---
 
-## Philosophy
+## 🏆 My GitHub Stats 🏆
 
-- Write code that scales, not just code that works  
-- Prefer clarity over cleverness  
-- Measure performance before optimizing  
+<!--
+Backup single-column versions (kept commented)
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedant-8&show_icons=true&theme=radical">
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-8">
+</p>
 
-*Focused. Consistent. Built for long-term growth.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-8&langs_count=10">
+</p>
+-->
 
-</div>
+<table align="center">
+  <thead>
+    <tr>
+      <th>
+        <p align="center">
+          <img src="https://github-readme-stats.vercel.app/api?username=Vedant-8&show_icons=true&theme=radical" />
+        </p>
+      </th>
+      <th>
+        <p align="center">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedant-8&theme=radical" />
+        </p>
+      </th>
+    </tr>
+  </thead>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant-8&langs_count=10&theme=radical" />
+</p>
+
+<!-- Optional: Contribution animation (remove if you don't add the file) -->
+<!--
+<p align="center">
+  <img src="https://github.com/Vedant-8/Vedant-8/blob/main/github-user-contribution.svg" style="max-width:100%;" />
+</p>
+-->>
